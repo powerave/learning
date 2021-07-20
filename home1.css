@@ -1,0 +1,177 @@
+html{
+    background-color: #D76300;
+    color: #C0C0C0;
+    background-image: url(guitarwp.jpg);
+    background-size: cover;
+}
+
+body{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    font-size: 1.7em;
+}
+
+li{
+    font-size: 20px;
+    
+}
+
+ul{
+    width: 100%;
+}
+
+ul li{
+    font-size: 18px;
+    
+}
+
+.sommaire{
+    float: left;
+    padding-left: 10px;
+    width: 12%;
+   
+}
+/* TExTES */
+.hauteur{
+    line-height: 1em;
+}
+
+.fantasy{
+    font-family: fantasy;
+}
+
+.gras{
+    font-weight: bold;
+}
+
+/* TAILLES */
+.petit{
+    font-size: 18px;
+}
+
+.moyen{
+    font-size: 22px;
+}
+
+.gros{
+    font-size: 36px;
+}
+
+.tresgros{
+    font-size: 48px;
+}
+
+.fin{
+    width: 9%
+}
+
+/* HABILLAGES DE STYLE */
+.italique{
+    font-style: italic;
+}
+
+.souligne{
+    text-decoration: underline overline #D76300;
+}
+
+
+/* LES COULEURS */
+.orange{
+    color: #B56009;
+}
+
+.bleu{
+    color: blue;
+}
+
+.vert{
+    color: green;
+}
+
+.rouge{
+    color: red;
+}
+
+.jaune{
+    color: yellow;
+}
+
+.foret{
+    color: forestgreen;
+}
+
+.gold{
+    color: #D76300;
+}
+
+.dblue{
+    color: dodgerblue;
+}
+
+.blanc{
+    color: #C0C0C0;
+}
+
+.violet{
+    color: purple;
+}
+
+.fondnoir{
+    background-color: rgba(1, 1, 1, 0.7);
+}
+
+/* BORDURES */
+.bordureorange{
+    border: 10px inset #D76300;
+    padding: 5px;
+}
+
+.bordurebleu{
+    border: 1px solid #110B63;
+    padding: 5px;
+}
+
+.bordurevert{
+    border: 2px solid green;
+    padding: 5px;
+}
+
+.bordurerouge{
+    border: 2px solid red;
+    padding: 5px
+}
+
+.bordurejaune{
+    border: 2px solid yellow;
+    padding: 5px;
+}
+
+.bordurenoire{
+    border: 10px inset black;
+    padding: 5px;
+}
+
+/* FONDS */
+.fondbleuclair{
+    background-color: lightBlue;
+}
+
+/* LES MARGES */
+.margetop{
+    margin-top: 50px;
+}
+
+.margehr{
+    margin-top: 610px;
+}
+
+.smallbotmarge{
+    margin-bottom: 50px;
+}

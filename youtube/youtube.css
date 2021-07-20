@@ -1,0 +1,33 @@
+html{
+    color: #1F1313;
+    background-color: #C0C0C0;
+}
+
+dt{
+    font-weight: bold;
+    font-size: 24px;
+    color: black;
+    text-decoration: underline #C0C0C0;
+}
+
+dd{
+    color: black;
+    text-decoration: underline #C0C0C0;
+}
+
+.rouge{
+    color: #B51F09;
+}
+
+.yt{
+    border-left: 5px solid #B51F09;
+    padding-left: 10px;
+}
+
+.h1{
+    border: 5px inset #B51F09;
+}
+
+.center{
+    text-align: center;
+}

@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    background-image: url(teuf.jpg);
+    background-size: 100%;  
+}
+
+p{
+    color: grey;
+}
+    
+h1{
+    border: 15px double #8cff89;
+    font-size: 3em;
+    color: #26cd16;
+    text-align: center;
+    margin: 0% 33%;
+}
+
+h2{
+    color: #8cff89;
+    text-decoration: underline 5px #26cd16;
+}
